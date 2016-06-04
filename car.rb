@@ -1,4 +1,4 @@
-# Car class. Attempt to mimick the controls of my Renault Megane. Features include an automatic handbrake (button), speed limit, and cruise control.
+# Car class. Attempt to mimic the controls of my Renault Megane. Features include an automatic handbrake (button), speed limit, and cruise control.
 
 class Car
 
