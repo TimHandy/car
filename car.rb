@@ -24,7 +24,7 @@ class Car
     "Handbrake is #{@handbrake}"
   end
 
-  def handbrake  # handbrake toggle
+  def handbrake  # handbrake toggle  TODO: change to use boolean for handbrake on off, I can then say "if handbrake..."
     if @handbrake == 'on'
        @handbrake = 'off'
       "Handbrake is #{@handbrake}"
